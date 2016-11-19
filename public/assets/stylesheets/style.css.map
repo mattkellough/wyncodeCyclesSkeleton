@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,UAKC,CAJC,WAAW,CAAE,mBAAmB,CAChC,GAAG,CAAC,uFAAuF,CAC3F,WAAW,CAAE,MAAM,CACnB,UAAU,CAAE,MAAM,CAGpB,UAKC,CAJC,WAAW,CAAE,mBAAmB,CAChC,GAAG,CAAC,oFAAoF,CACxF,WAAW,CAAE,IAAI,CACjB,UAAU,CAAE,MAAM",
+"sources": ["style.scss"],
+"names": [],
+"file": "style.css"
+}
